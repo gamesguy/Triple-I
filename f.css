@@ -1,0 +1,12 @@
+body{background-color: antiquewhite;}
+h1{color: brown;}
+h2{color: blueviolet;}
+h4{color: red;}
+.pics{
+    width: 5;
+    right: 10;
+}
+.image{
+    size: 30%;
+    width: 2%;
+}
